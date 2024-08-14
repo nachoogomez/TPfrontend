@@ -1,0 +1,3 @@
+Una estructura simple de directorios tiene como funcionalidad fundamental mantener organizado el proyecto y facilitar su desarrollo. Esto permite mejorar la organización, 
+la localización de recursos, su escalabilidad a futuro y su mantenimiento. Además, facilita que el equipo de desarrollo comprenda cómo está organizado el proyecto, 
+lo que mejora la colaboración y reduce la posibilidad de errores.
