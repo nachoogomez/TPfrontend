@@ -1,0 +1,9 @@
+Crearemos un formuario bien estructurado con 4 campos:
+
+2 Imput
+
+1 Select con 6 opciones.
+
+1 Text Area
+
+Tambien agregaremos un boton que al presionarlo imprima por consola los datos del formulario en un objeto JavaScript o JSON. 
